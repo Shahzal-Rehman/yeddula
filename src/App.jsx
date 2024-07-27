@@ -24,15 +24,15 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Yeddula Epafra",
+name: "Yeddula Epafra",
   title: "Web Designer & Content Creator",
   email: "yeddula.epafra@studentambassadors.com",
   gitHub: "YEpafra20",
   instagram: "yeddulaofficial223",
   linkedIn: "epafra-yeddula-18b399240",
   medium: "yeddula.epafra",
-  twitter: "YeddulaEpafra",
-  youTube: "yeddula.epafra",
+  twitter: "Yeddula Epafra",
+  youTube: @yepafra5587",
 };
 
 const primaryColor = "#4E567E";
