@@ -27,11 +27,11 @@ const siteProps = {
   name: "Yeddula Epafra",
   title: "Web Designer & Content Creator",
   email: "yeddula.epafra@studentambassadors.com",
-  gitHub: "microsoft",
-  instagram: "yeddula.epafra",
-  linkedIn: "yeddula.epafra",
+  gitHub: "YEpafra20",
+  instagram: "yeddulaofficial223",
+  linkedIn: "epafra-yeddula-18b399240",
   medium: "yeddula.epafra",
-  twitter: "yeddula.epafra",
+  twitter: "YeddulaEpafra",
   youTube: "yeddula.epafra",
 };
 
